@@ -114,9 +114,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday May 11** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **9:17AM on May 11** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,43 +133,12 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **9:17 AM** on **Thursday May 11**. Each presentation should be **8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
 * What is one feature you're particularly proud of? (show code)
 * Shout-outs for your fellow classmates!
-
----
-
-## Instructor Groups
-
-###### Who will be my assigned instructor / DIR for this project?
-
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
 
 ---
 
